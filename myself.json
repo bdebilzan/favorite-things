@@ -1,0 +1,18 @@
+{
+"firstname": "Bryce",
+"lastname": "DeBilzan",
+"email": "bdebilzan@mac.com",
+"age": 29,
+"from": "Orange County",
+"livesin": "Los Angeles",
+
+"passions": [
+"Programming",
+"Exercising",
+"Learning"
+],
+
+"dreams": [
+"To make this world a better place!"
+],
+}
